@@ -11,94 +11,31 @@ let musics=[
     },
     {
         id:2,
-        name:"Bad Liar",
-        artist:"Imagine Dragons",
-        audioSrc:"audios/Bad Liar.mp3",
-        imageSrc:"images/bad liar.jpg"
-    },
-    {
-        id:3,
-        name:"Blank Space",
-        artist:"Taylor Swift",
-        audioSrc:"audios/Blank Space.mp3",
-        imageSrc:"images/blank space.jpg"
-    },
-    {
-        id:4,
-        name:"Cold Play",
-        artist:"Chris Martin",
-        audioSrc:"audios/ColdPlay.mp3",
-        imageSrc:"images/cold play.jpg"
-    },
-    {
-        id:5,
         name:"Dil Meri Na sune",
         artist:"Atif Aslam",
         audioSrc:"audios/Dil Meri Na Sune.mp3",
         imageSrc:"images/dil meri na sune.jpeg"
     },
     {
-        id:6,
+        id:3,
         name:"Humdard",
         artist:"Arijit Singh",
         audioSrc:"audios/Humdard.mp3",
         imageSrc:"images/humdard.jpeg"
     },
     {
-        id:7,
-        name:"Ishq Bhi Kiya Re Maula",
-        artist:"Ali Azmat",
-        audioSrc:"audios/Ishq Bhi Kiya Re Maula.mp3",
-        imageSrc:"images/ishq bhi kiya.jpg"
-    },
-    {
-        id:8,
-        name:"Kyu Mai Jaagoon",
-        artist:"Shafqat Amanat Ali",
-        audioSrc:"audios/Kyun Main Jaagoon.mp3",
-        imageSrc:"images/kyun mai jagoon.jpg"
-    },
-    {
-        id:9,
+        id:4,
         name:"Lag Ja Gale",
         artist:"Rahat Fateh Ali Khan",
         audioSrc:"audios/Lag Ja Gale.mp3",
         imageSrc:"images/lag ja gale.jpg"
     },
     {
-        id:10,
-        name:"Mai Jaha Rahoon",
-        artist:"Rahat Fateh Ali Khan",
-        audioSrc:"audios/Main Jahaan Rahoon.mp3",
-        imageSrc:"images/mai jaha rahoon.jpeg"
-    },
-    {
-        id:11,
-        name:"Namo Namo",
-        artist:"Amit Trivedi",
-        audioSrc:"audios/Namo Namo.mp3",
-        imageSrc:"images/namo namo.jpeg"
-    },
-    {
-        id:12,
-        name:"Sugar",
-        artist:"Imagine Dragons",
-        audioSrc:"audios/Sugar.mp3",
-        imageSrc:"images/sugar.jpg"
-    },
-    {
-        id:13,
+        id:5,
         name:"Tera Fitoor",
         artist:"Arijit Singh",
         audioSrc:"audios/Tera Fitoor.mp3",
         imageSrc:"images/tera fitoor.jpeg"
-    },
-    {
-        id:14,
-        name:"Yaar Ni Mileya",
-        artist:"Hardy Sandhu",
-        audioSrc:"audios/Yaarr Ni Milyaa.mp3",
-        imageSrc:"images/yaar ni milya.webp"   
     }
 ]
 
